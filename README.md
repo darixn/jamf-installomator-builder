@@ -1,5 +1,6 @@
 # Jamf Installomator Builder
 
+
 A local web app that automates the creation of Jamf Pro policies for [Installomator](https://github.com/Installomator/Installomator)-backed app deployments. Select your labels, configure behavior, click build — the tool creates Smart Groups, Self Service policies, and Auto-Update policies via the Jamf API.
 
 ## What It Creates
@@ -178,6 +179,10 @@ jamf-installomator-builder/
 └── templates/
     └── index.html      # Single-page web UI
 ```
+
+
+<img width="3458" height="7294" alt="image" src="https://github.com/user-attachments/assets/44f1c075-ca57-465d-86f0-85b2d7ce93fa" />
+
 
 ## License
 
